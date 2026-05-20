@@ -1,0 +1,10 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos de datos pesados
+*.log
+*.xlsx
