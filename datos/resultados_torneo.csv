@@ -1,0 +1,11 @@
+partido_id,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante
+1,2024-03-01,River,Boca,2,1
+2,2024-03-01,Racing,Independiente,0,0
+3,2024-03-08,Boca,San Lorenzo,3,1
+4,2024-03-08,Independiente,River,1,2
+5,2024-03-15,San Lorenzo,Racing,2,2
+6,2024-03-15,River,San Lorenzo,1,0
+7,2024-03-22,Boca,Racing,2,0
+8,2024-03-22,Independiente,San Lorenzo,3,1
+9,2024-03-29,Racing,River,1,1
+10,2024-03-29,San Lorenzo,Boca,0,2
